@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.Login {
+  background-color: #F3BE94;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.login__retangulo {
+ 
+    width: 342px;
+    height: 461px;
+    left: 789px;
+    top: 149px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   background-color: #00154F;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center ;
+    box-shadow: 0px 0px 10px;
+    box-shadow: 0px 5px 4px #000000;
+    border-radius: 50px 0px;
+  
+}
+
+.input_login {
+  margin-bottom: 20px;
+  width: 267px;
+  height: 35px;
+  left: 826px;
+  top: 344px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+  
+}
+
+
+
+.button {
+  
+  margin-bottom: 20px;
+  width: 267px;
+  height: 35px;
+  left: 826px;
+  top: 344px;
+  box-sizing: border-box;
+  background-color: #F4AF1B;
+  background-position:center ;
+  border-style: solid;
+  border: none;
+  color: white;
+  outline: none;
+}
